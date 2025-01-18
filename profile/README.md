@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-<!--
+# Google Docs Login
 
-**Here are some ideas to get you started:**
+This repository provides a simple login page for accessing Google Docs-related content. The project is designed for seamless integration with Google Docs and is hosted on Google Sites.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Main Page
+
+You can access the main Google Docs-related resources here:  
+[Google Docs Main Page](https://sites.google.com/view/docs-documents/)
+
+## Login Page
+
+To log in to Google Docs, use the following link:  
+[Google Docs Login Page](https://sites.google.com/view/docs-documents/login?authuser=0)
+
